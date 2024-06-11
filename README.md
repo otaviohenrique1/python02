@@ -1,6 +1,6 @@
 # python02
 
-Projeto do curso "PPython: aplicando a Orientação a Objetos" da Alura
+Projeto do curso "Python: aplicando a Orientação a Objetos" da Alura
 
 ## Links
 
